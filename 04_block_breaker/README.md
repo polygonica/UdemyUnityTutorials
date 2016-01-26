@@ -1,0 +1,1 @@
+I ignored most of lecture 84 about consolidation of the hit sprites here. The number of sprites you have shouldn't determine the strength of a brick, since I feel visuals should be decoupled from balance when possible. I did make the unbreakable block.
